@@ -1,12 +1,12 @@
 {
   "name": "tic-tac-toe-with-ai",
   "version": "1.0.0",
-  "description": "A web-based application for playing tic-tac-toe against various AI Algorithms.",
+  "description": "Una aplicación basada en web para jugar contra varios algoritmos de Inteligencia Artificial.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Karan Jagtiani",
+  "author": "Emilio Giacomo(Adoptsomekids)",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",

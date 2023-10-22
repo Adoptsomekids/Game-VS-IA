@@ -1,14 +1,14 @@
 # Game VS IA - Tic-Tac-Toe Contra algoritmos de IA 😈
-
-## Algoritmos de IA
-1. Minimax Algorithm
-2. Alpha-Beta Pruning Algorithm
-3. Hill Climbing Algorithm
-
    ![Badge en Desarollo](https://img.shields.io/badge/STATUS-Desarrollo%20Completo-blue)
    ![Badge](https://img.shields.io/pypi/status/aiogram.svg?style=flat-square)
 
 _Emilio Josafat Giacomo Quintero - Programación para Internet 2023B_
+
+## Algoritmos de IA implementados
+1. Minimax Algorithm
+2. Alpha-Beta Pruning Algorithm
+3. Hill Climbing Algorithm
+
 
 ## Comenzando 🚀
 
@@ -48,23 +48,29 @@ ii) Vaya al directorio **'angular-src'** y ejecute nuevamente:
 
 _Deployment desde Railway o localhost_
 
+![](images/landing.png)
 
-_Challenge seleccionado_
+_Selección de modo de juego (Single/Two Players/IA algortithms)_
 
+![](images/start.png)
 
-_Challenge superado / Forward_
+_Resumen de marcador en tablero_
 
+![](images/winner.png)
 
-_Modificación_
+_Cambio de modo de color de ventana_
 
+![](images/light.png)
 
 ### Pruebas de estilo de codificación ⌨️
 
-_Principal index.Svelte & Service worker_
+_App.js deployment & starting server_
 
+![image](https://github.com/Adoptsomekids/Game-VS-IA/assets/83385717/39af7ec6-b9b4-4b5a-b6f5-8f4824042ad5)
 
-_Service worker_
+_Seteo de barra de navegación_
 
+![image](https://github.com/Adoptsomekids/Game-VS-IA/assets/83385717/a835ca2e-36c9-4ef5-a79a-13036988c786)
 
 ## Construido con 🛠️
 

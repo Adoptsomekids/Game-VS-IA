@@ -5,7 +5,10 @@
    ![Logo](https://github.com/Adoptsomekids/Game-VS-IA/assets/83385717/003c01f8-4a5d-47f7-a450-53cdd9628459)
 
 
-_Emilio Josafat Giacomo Quintero - Programación para Internet 2023B_
+### Programación para Internet 2023B
+`Emilio Josafat Giacomo Quintero`
+
+`Saul Alejandro Castañeda Perez`
 
 ## Algoritmos de IA implementados
 1. Minimax Algorithm

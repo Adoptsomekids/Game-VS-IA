@@ -22,13 +22,13 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 ### Pre-requisitos 📋
 
-1. Git Version Control 
+1. Git Version Control   
 `https://git-scm.com/downloads`
-2. Node JS (LTS)
+2. Node JS (LTS)   
 `https://nodejs.org/en/download/`
-3. Angular Latest Version
+3. Angular Latest Version   
 `npm install -g @angular/cli@latest`
-4. Nodemon - Optional
+4. Nodemon - Optional   
 `npm install -g nodemon`
 
 ## Development

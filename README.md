@@ -2,6 +2,9 @@
    ![Badge en Desarollo](https://img.shields.io/badge/STATUS-Desarrollo%20Completo-blue)
    ![Badge](https://img.shields.io/pypi/status/aiogram.svg?style=flat-square)
 
+   ![Logo](https://github.com/Adoptsomekids/Game-VS-IA/assets/83385717/003c01f8-4a5d-47f7-a450-53cdd9628459)
+
+
 _Emilio Josafat Giacomo Quintero - Programación para Internet 2023B_
 
 ## Algoritmos de IA implementados
@@ -48,7 +51,7 @@ ii) Vaya al directorio **'angular-src'** y ejecute nuevamente:
 
 _Deployment desde Railway o localhost_
 
-![](images/landing.png)
+![image](https://github.com/Adoptsomekids/Game-VS-IA/assets/83385717/32faa3ae-6d24-4f63-a851-11213cf39129)
 
 _Selección de modo de juego (Single/Two Players/IA algortithms)_
 
